@@ -2,8 +2,8 @@
 ln -fs /usr/share/zoneinfo/Asia/Manila /etc/localtime
 #change this according to your database details
 #Database Details
-dbhost='66.45.251.234';
-dbuser='systemte_philippines-vpn-user';
+dbhost='166.45.251.234';
+dbuser='systemte_philippines-vpn';
 dbpass='soldier062185';
 dbname='systemte_philippines-vpn';
 dbport='3306';
