@@ -2,8 +2,8 @@
 ln -fs /usr/share/zoneinfo/Asia/Manila /etc/localtime
 #change this according to your database details
 #Database Details
-dbhost='184.168.102.191';
-dbuser='thundervolt-user';
+dbhost='184.168.112.105';
+dbuser='thundervolt101-user';
 dbpass='soldier062185';
 dbname='thundervolt101';
 dbport='3306';
